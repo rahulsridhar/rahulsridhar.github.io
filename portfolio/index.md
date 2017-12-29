@@ -44,5 +44,5 @@ I'm Rahul Sridhar, a Machine Learning practitioner and Data Scientist. The exper
         </ul>
 </p>
 
-For more details about the <b>projects</b> I have worked on, click <a href="/portfolio/projects">here</a>.
+For more details about the <b>projects</b> I have worked on, click <a href="/projects">here</a>.
 
