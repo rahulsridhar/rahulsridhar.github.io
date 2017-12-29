@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 <ul>
-	<li><a class="page-link" href = "/portfolio/facial_expression_recognition">Facial Expression Recognition:</a> Created a gradient boosted ensemble of Convolutional Neural Networks and a K-nearest neighbors model after reducing dimensionality using Principal Components Analysis to predict facial expressions (49% accuracy on 7-class data) (TensorFlow, scikit-learn, GraphLab)<br></li>
-	<li><a class="page-link" href = "/portfolio/search_engine">Search Engine:</a> Built a search engine with a web interface containing modules for tokenizing, indexing, and ranking webpages in UC Irvine's website (using PageRank, tf-idf, bigrams and tag-based attributes) (Python)<br></li>
-	<li><a class="page-link" href = "/portfolio/compiler_vectorization_prediction"> Compiler Vectorization Prediction:</a> Improved the prediction accuracy of compiler vectorization by 6% using Random Forests and K-nearest neighbors after performing data augmentation with SMOTE and synthpop<br></li>
-	<li><a class="page-link" href = "/portfolio/rainfall_prediction">Rainfall Prediction (Class Kaggle project):</a> Predicted the probability of rainfall in a location using Random Forests, Logistic Regression, Boosted Decision Trees and Neural Networks in Python (model performance in top ~20% of class)<br></li>
-	<li><a class="page-link" href = "/portfolio/sokoban_solver">Sokoban Solver:</a> Implemented a system for solving the Sokoban puzzle using various search strategies (A*, Iterative Deepening A*, Breadth First Search) and heuristics (such as the Manhattan distance) in C++<br></li>
-	<li><a class="page-link" href = "/portfolio/emotion_identification">Emotion Identification of Songs:</a> Predicted the emotions of songs using their audio and lyrical content with Support Vector Machines, Naive Bayes, Random Forests, and word lists in Python and Weka<br></li>
+	<li><a class="page-link" href = "/facial_expression_recognition">Facial Expression Recognition:</a> Created a gradient boosted ensemble of Convolutional Neural Networks and a K-nearest neighbors model after reducing dimensionality using Principal Components Analysis to predict facial expressions (49% accuracy on 7-class data) (TensorFlow, scikit-learn, GraphLab)<br></li>
+	<li><a class="page-link" href = "/search_engine">Search Engine:</a> Built a search engine with a web interface containing modules for tokenizing, indexing, and ranking webpages in UC Irvine's website (using PageRank, tf-idf, bigrams and tag-based attributes) (Python)<br></li>
+	<li><a class="page-link" href = "/compiler_vectorization_prediction"> Compiler Vectorization Prediction:</a> Improved the prediction accuracy of compiler vectorization by 6% using Random Forests and K-nearest neighbors after performing data augmentation with SMOTE and synthpop<br></li>
+	<li><a class="page-link" href = "/rainfall_prediction">Rainfall Prediction (Class Kaggle project):</a> Predicted the probability of rainfall in a location using Random Forests, Logistic Regression, Boosted Decision Trees and Neural Networks in Python (model performance in top ~20% of class)<br></li>
+	<li><a class="page-link" href = "/sokoban_solver">Sokoban Solver:</a> Implemented a system for solving the Sokoban puzzle using various search strategies (A*, Iterative Deepening A*, Breadth First Search) and heuristics (such as the Manhattan distance) in C++<br></li>
+	<li><a class="page-link" href = "/emotion_identification">Emotion Identification of Songs:</a> Predicted the emotions of songs using their audio and lyrical content with Support Vector Machines, Naive Bayes, Random Forests, and word lists in Python and Weka<br></li>
 </ul>
 
 <br>

@@ -11,13 +11,13 @@ The process of vectorization entails converting the scalar implementation of a c
 
 
 The project report can be viewed/downloaded here:
-<object data="/portfolio/files/compiler_report.pdf" type="application/pdf" width="360px" height="400px">
-    <embed src="/portfolio/files/compiler_report.pdf">
-	<i>This browser does not support embedded PDFs. Please download it here: </i><a href="/portfolio/files/compiler_report.pdf">Download report</a>
+<object data="/files/compiler_report.pdf" type="application/pdf" width="360px" height="400px">
+    <embed src="/files/compiler_report.pdf">
+	<i>This browser does not support embedded PDFs. Please download it here: </i><a href="/files/compiler_report.pdf">Download report</a>
     </embed>
 </object>
 <br>
-The Jupyter notebooks containing the experiments and their results can be downloaded <a href='/portfolio/files/compiler_codes.zip'>here</a>.
+The Jupyter notebooks containing the experiments and their results can be downloaded <a href='/files/compiler_codes.zip'>here</a>.
 
 <!--
 You can find the source code for Jekyll at GitHub:
