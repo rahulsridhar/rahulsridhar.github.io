@@ -1,0 +1,25 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
+## About Me
+
+Rahul Sridhar - Machine Learning practitioner and Data Scientist! <br>
+Education:
+* M.S. in Computer Science from the University of California, Irvine. (Sep 2016 - Dec 2017)
+* B.E. in Computer Science from Anna University, India. (Aug 2010 - Apr 2014)
+ 
+Work Experience:
+* Computation Student Intern at the Lawrence Livermore National Laboratory (Jun - Sep 2017)
+* Decision Scientist at Mu Sigma, India (Aug 2014 - Apr 2016)
+
+## Projects 
+<a class="page-link" href = "/portfolio/facial_expression_recognition">Facial Expression Recognition</a><br>
+<a class="page-link" href = "/portfolio/facial_expression_recognition">Search Engine</a><br>
+<a class="page-link" href = "/portfolio/facial_expression_recognition">Compiler Vectorization Prediction</a><br>
+<a class="page-link" href = "/portfolio/facial_expression_recognition">Rainfall Prediction</a><br>
+<a class="page-link" href = "/portfolio/facial_expression_recognition">Sokoban Solver</a><br>
+<a class="page-link" href = "/portfolio/facial_expression_recognition">Emotion Identification of Songs</a><br>
+

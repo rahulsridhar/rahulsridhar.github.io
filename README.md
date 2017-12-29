@@ -1,2 +1,2 @@
 # rahulsridhar.github.io
-Personal project portfolio
+My personal website detailing my education, work experience, and projects.
