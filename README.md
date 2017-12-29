@@ -1,2 +1,2 @@
 # rahulsridhar.github.io
-My personal website detailing my education, work experience, and projects.
+My personal website (with details about my education, work experience, and projects).
