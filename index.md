@@ -1,10 +1,11 @@
 ---
+
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## About Me
+<h2> <b>About Me</b> </h2>
 
 <img src="/files/Me.jpg" alt="Rahul Sridhar" align="left" valign="middle" vspace="5" hspace="12" height="250" width="200"/>
 
@@ -44,5 +45,4 @@ I'm Rahul Sridhar, a Machine Learning practitioner and Data Scientist. The exper
         </ul>
 </p>
 
-For more details about the <b>projects</b> I have worked on, click <a href="/projects">here</a>.
-
+For more details about the <b>projects</b> I have worked on, click <a href="/projects">here</a>. Feel free to connect with me on <a href="http://linkedin.com/in/rahul-sridhar/">LinkedIn</a>.

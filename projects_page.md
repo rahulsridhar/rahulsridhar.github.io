@@ -13,7 +13,7 @@ permalink: /projects/
 </ul>
 
 <br>
-<h4>Work Experience: </h4>
+#### <b>Work Experience:</b>
 <ul>
 	<li><b>Computation Student Intern, Lawrence Livermore National Laboratory (Jun - Sep 2017):</b></li>
 		<ul>
