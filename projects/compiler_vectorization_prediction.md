@@ -10,7 +10,7 @@ exclude: true
 The process of vectorization entails converting the scalar implementation of a computer program into a vector implementation. This project attempts to build on <a href="http://cecs.uci.edu/files/2017/05/combinepdf.pdf">recent work</a> involving the usage of hardware performance counters and techniques from machine learning to predict auto-vectorization of compilers by validating similar machine learning models on a different architecture and compiler, and also shows the benefits of data augmentation through sample synthesis on such applications. Using predictive models along with data augmentation on hardware performance data, I was able to successfully predict whether a compiler was able to auto-vectorize a program.
 
 
-The project report can be viewed/downloaded here:
+The project report can be viewed/downloaded below:
 <object data="/files/compiler_report.pdf" type="application/pdf" width="360px" height="400px">
     <embed src="/files/compiler_report.pdf">
 	<i>This browser does not support embedded PDFs. Please download it here: </i><a href="/files/compiler_report.pdf">Download report</a>
