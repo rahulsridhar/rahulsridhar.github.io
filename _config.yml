@@ -1,9 +1,8 @@
 title: "Rahul Sridhar"
-email: "rsridha2 at uci dot edu"
-# description:  Personal project portfolio of Rahul Sridhar
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-url: "http://rahulsridhar.github.io/"
+email: "rahul.rsridhar@gmail.com"
+baseurl: ""
+url: "localhost:4000"
+#url: "http://rahulsridhar.github.io/"
 
 
 # Build settings
@@ -15,14 +14,3 @@ collections:
   projects:
     output: true
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
