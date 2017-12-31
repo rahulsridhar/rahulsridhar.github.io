@@ -1,8 +1,8 @@
 title: "Rahul Sridhar"
 email: "rahul.rsridhar@gmail.com"
 baseurl: ""
-url: "localhost:4000"
-#url: "http://rahulsridhar.github.io/"
+#url: "localhost:4000"
+url: "http://rahulsridhar.github.io/"
 
 
 # Build settings
