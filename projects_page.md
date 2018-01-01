@@ -13,7 +13,7 @@ sample influence on the performance of a High Performance Computing application 
                                         <li>Non-black-box method whose results aligned with the intuition of HPC experts (and to be tested on more apps)</li>
                                         <li>Validated results with Neural Networks, Gradient Boosting, Random Forests (Keras, scikit-learn, TensorFlow)</li>
                                 </ul>
-                        <li>Identified influential samples in Kaggle and ImageNet datasets using AlexNet’s latent space (with/without fine-tuning) (<a class="page-link" href="http://arxiv.org/abs/1711.05407 "><b><u>Link</u></b></a> to arxiv paper - soon to be submitted to ICML 2018)</li>
+                        <li>Identified influential samples in Kaggle and ImageNet datasets using AlexNet’s latent space (with/without fine-tuning) (<a class="page-link" href="http://arxiv.org/abs/1711.05407 "><b><u>Link</u></b></a> to arXiv paper - soon to be submitted to ICML 2018)</li>
                         <li>Selected to present <a class="page-link" href="/files/llnl_posters.zip"><b><u>posters</u></b></a> at the <a href="https://sites.google.com/view/socalml17/home">SoCal Machine Learning Symposium 2017</a> and Supercomputing conference <a href="https://sc17.supercomputing.org">SC 2017</a></li>
                 </ul>
 </p>
