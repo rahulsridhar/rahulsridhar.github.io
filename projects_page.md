@@ -7,14 +7,13 @@ permalink: /projects/
 
 <b>Computation Student Intern, Lawrence Livermore National Laboratory (Jun - Sep 2017):</b>
                 <ul>
-                        <li>Performed a novel, model-agnostic influence analysis using Graph Signal Processing to quantify parameter and data
+                        <li><b><a class="page-link"  href="/influence_analysis_performance"><u>Influence Analysis for Performance Data:</u></a></b> Performed a novel, model-agnostic influence analysis using Graph Signal Processing to quantify parameter and data
 sample influence on the performance of a High Performance Computing application (Python)</li>
                                 <ul>
                                         <li>Non-black-box method whose results aligned with the intuition of HPC experts (and to be tested on more apps)</li>
                                         <li>Validated results with Neural Networks, Gradient Boosting, Random Forests (Keras, scikit-learn, TensorFlow)</li>
                                 </ul>
-                        <li>Identified influential samples in Kaggle and ImageNet datasets using AlexNet’s latent space (with/without fine-tuning) (<a class="page-link" href="http://arxiv.org/abs/1711.05407 "><b><u>Link</u></b></a> to arXiv paper - soon to be submitted to ICML 2018)</li>
-                        <li>Selected to present <a class="page-link" href="/files/llnl_posters.zip"><b><u>posters</u></b></a> at the <a href="https://sites.google.com/view/socalml17/home">SoCal Machine Learning Symposium 2017</a> and Supercomputing conference <a href="https://sc17.supercomputing.org">SC 2017</a></li>
+                        <li><b><a class="page-link" href="/graph_signal_processing"><u>A Graph Signal Processing Approach for Sample Influence Analysis:</u></a></b> Identified influential samples in <a href="https://www.kaggle.com/c/dogs-vs-cats">Kaggle </a>and <a href="http://www.image-net.org">ImageNet</a> datasets using <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">AlexNet’s</a> latent space (with/without fine-tuning)</li>
                 </ul>
 </p>
 

@@ -25,8 +25,3 @@ The report and the presentation from the project can be viewed/downloaded below:
 
 <br>
 The Jupyter notebooks containing the experiments and their results can be downloaded <a href='/files/facial_expression_recognition_codes.zip'>here</a>.
-<!--You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)-->
-
-[jekyll-organization]: https://github.com/jekyll
