@@ -8,7 +8,7 @@ exclude: true
 <center><i>Most influential samples in the ImageNet data (for AlexNet)</i></center>
 <br>
 
-This was a project I had worked on as part of a team that consisted of researchers from the Data Analysis group. The motivation/goals for this work was as follows:
+This was a project I had worked on as part of a team (at LLNL) that consisted of researchers from the Data Analysis group. The motivation/goals for this work was as follows:
 <ul>
 	<li>With the growing complexity of deep neural networks, unraveling black-box models is more critical than ever</li>
 	<li>Example-based explanation is a popular strategy to succinctly describe the model’s observed behavior</li>
