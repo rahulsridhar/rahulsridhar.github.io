@@ -7,7 +7,7 @@ layout: home
 ---
 <h2> <b>About Me</b> </h2>
 <p align="justify">
-<img src="/files/Me.jpg" alt="Rahul Sridhar" align="left" valign="middle" vspace="5" hspace="25" height="250" width="200"/>
+<img src="/files/Me.jpg" alt="Rahul Sridhar" align="left" valign="middle" vspace="5" hspace="30" height="270" width="210"/>
 
 <ul>
 	<li>I'm <b>Rahul Sridhar</b>, a Computer Science graduate with a specialization in Machine Learning and Data Science </li><br>

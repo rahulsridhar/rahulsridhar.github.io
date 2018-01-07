@@ -17,7 +17,7 @@ sample influence on the performance of a High Performance Computing application 
                 </ul>
 </p>
 
-#### <b> Other Projects </b>
+### <b> Other Projects </b>
 <p>
 <ul>
 	<li><a class="page-link" href = "/facial_expression_recognition"><b><u>Facial Expression Recognition:</u></b></a> Created a gradient boosted ensemble of Convolutional Neural Networks and a K-nearest neighbors model after reducing dimensionality using Principal Components Analysis to predict facial expressions (49% accuracy on 7-class data) (TensorFlow, scikit-learn, GraphLab)<br></li>
@@ -28,8 +28,7 @@ sample influence on the performance of a High Performance Computing application 
 	<li><a class="page-link" href = "/emotion_identification"><b><u>Emotion Identification of Songs:</u></b></a> Predicted the emotions of songs using their audio and lyrical content with Support Vector Machines, Naive Bayes, Random Forests, and word lists in Python and Weka<br></li>
 </ul>
 </p>
-<br>
-#### <b>Other Work Experience:</b>
+### <b>Other Work Experience:</b>
 <p>
 <b>Decision Scientist, Mu Sigma (Aug 2014 - Apr 2016): </b>
 		<ul>
