@@ -13,7 +13,7 @@ sample influence on the performance of a High Performance Computing application 
                                         <li>Non-black-box method whose results aligned with the intuition of HPC experts (and to be tested on more apps)</li>
                                         <li>Validated results with Neural Networks, Gradient Boosting, Random Forests (Keras, scikit-learn, TensorFlow)</li>
                                 </ul>
-                        <li><b><a class="page-link" href="/graph_signal_processing"><u>A Graph Signal Processing Approach for Sample Influence Analysis:</u></a></b> Identified influential samples in <a href="https://www.kaggle.com/c/dogs-vs-cats">Kaggle </a>and <a href="http://www.image-net.org">ImageNet</a> datasets using <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">AlexNet’s</a> latent space (with/without fine-tuning)</li>
+                        <li><b><a class="page-link" href="/graph_signal_processing"><u>A Graph Signal Processing Approach for Sample Influence Analysis:</u></a></b> Identified influential samples and computed image saliency maps in <a href="https://www.kaggle.com/c/dogs-vs-cats">Kaggle </a>and <a href="http://www.image-net.org">ImageNet</a> datasets using <a href="https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf">AlexNet’s</a> latent space (with/without fine-tuning) using Graph Signal Processing (submitted to ICML 2018 - arXiv link <a class="page-link" href="http://arxiv.org/abs/1711.05407 "><b><u>here</u></b></a>) </li>
                 </ul>
 </p>
 

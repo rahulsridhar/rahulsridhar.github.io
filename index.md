@@ -12,7 +12,7 @@ layout: home
 <ul>
 	<li>I'm <b>Rahul Sridhar</b>, a Computer Science graduate with a specialization in Machine Learning and Data Science </li><br>
 	<li>My <b>interests</b> lie in applied Machine Learning (Supervised and Unsupervised), Deep Learning (Neural Networks), and other techniques entailed in Data Science to tackle real-world business problems using data </li><br>
-	<li>Feel free to <b>contact</b> me at rahul.rsridhar@gmail.com or connect with me on <a href="http://linkedin.com/in/rahul-sridhar/">LinkedIn</a></li>
+	<li>Feel free to <b>contact</b> me at <a href="mailto:{{ site.email }}">rahul.rsridhar@gmail.com</a> or connect with me on <a href="http://linkedin.com/in/rahul-sridhar/">LinkedIn</a></li>
 </ul>
 <br>
 </p>
@@ -24,6 +24,7 @@ layout: home
 	</ul>
 <b>Work Experience:</b>
 	<ul>
+		<li> Data Scientist Intern at <a href="https://conversica.com">Conversica</a> (Feb 2018 - present) </li>
 		<li> Computation Student Intern at the <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory</a> (Jun - Sep 2017) </li>
 		<li> Decision Scientist at <a href="https://www.mu-sigma.com">Mu Sigma</a>, India (Aug 2014 - Apr 2016) </li>
 		<li> Graduate Teaching Assistant for two undergraduate Informatics courses at the University of California, Irvine  (Apr – Jun 2017, Sep – Dec 2017)</li>
@@ -41,7 +42,8 @@ layout: home
 		<li> Elected School Pupil Leader for a student population of close to 1,600 students </li>
 		<li> Coursera Certifications: </li>
 			<ul>
-				<li> Four courses in Andrew Ng’s <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning specialization </a>(TensorFlow, Keras, Convolutional Neural Networks, Fully Connected Neural Networks, Transfer Learning) </li>
+				<li> Five courses in Andrew Ng’s <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning specialization </a>(TensorFlow, Keras, Convolutional Neural Networks, Fully Connected Neural Networks, Recurrent Neural Networks/Sequence Models, Transfer Learning) </li>
+				<li> Introduction to Recommender Systems </li>
 				<li> R Programming </li>
 				<li> The Data Scientist’s Toolbox </li>
 			</ul>
