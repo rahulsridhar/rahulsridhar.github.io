@@ -24,7 +24,8 @@ layout: home
 	</ul>
 <b>Work Experience:</b>
 	<ul>
-		<li> Data Scientist Intern at <a href="https://conversica.com">Conversica</a> (Feb 2018 - present) </li>
+		<li> Data Scientist at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Jun 2018 - present) </li>
+		<li> Data Scientist Intern at <a href="https://conversica.com">Conversica</a> (Feb - May 2018) </li>
 		<li> Computation Student Intern at the <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory</a> (Jun - Sep 2017) </li>
 		<li> Decision Scientist at <a href="https://www.mu-sigma.com">Mu Sigma</a>, India (Aug 2014 - Apr 2016) </li>
 		<li> Graduate Teaching Assistant for two undergraduate Informatics courses at the University of California, Irvine  (Apr – Jun 2017, Sep – Dec 2017)</li>
