@@ -24,7 +24,8 @@ layout: home
 	</ul>
 <b>Work Experience:</b>
 	<ul>
-		<li> Senior Data Scientist at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Aug 2019 - present) </li>
+		<li> Staff Data Scientist / Senior Manager I, Data Science at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Sep 2021 - present) </li>
+		<li> Senior Data Scientist at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Aug 2019 - Sep 2021) </li>
 		<li> Data Scientist at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Jun 2018 - Aug 2019) </li>
 		<li> Data Scientist Intern at <a href="https://conversica.com">Conversica</a> (Feb - May 2018) </li>
 		<li> Computation Student Intern at the <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory</a> (Jun - Sep 2017) </li>
