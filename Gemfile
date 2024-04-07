@@ -20,6 +20,9 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem "tzinfo", ">= 1.2.10"
+  gem "commonmarker", ">= 0.23.10"
+  gem "activesupport", ">= 6.1.7.3"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
