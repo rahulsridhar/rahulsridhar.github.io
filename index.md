@@ -24,9 +24,10 @@ layout: home
 	</ul>
 <b>Work Experience:</b>
 	<ul>
-		<li> Staff Data Scientist / Senior Manager I, Data Science at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Sep 2021 - present) </li>
-		<li> Senior Data Scientist at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Aug 2019 - Sep 2021) </li>
-		<li> Data Scientist at <a href="https://www.walmartlabs.com/">Walmart Labs</a> (Jun 2018 - Aug 2019) </li>
+		<li> Principal Data Scientist at <a href="https://tech.walmart.com/content/walmart-global-tech/en_us.html">Walmart Global Tech</a> (Mar 2025 - May 2026) </li>
+		<li> Staff Data Scientist / Senior Manager I, Data Science at <a href="https://tech.walmart.com/content/walmart-global-tech/en_us.html">Walmart Global Tech</a> (Sep 2021 - Mar 2025) </li>
+		<li> Senior Data Scientist at <a href="https://tech.walmart.com/content/walmart-global-tech/en_us.html">Walmart Global Tech</a> (Aug 2019 - Sep 2021) </li>
+		<li> Data Scientist at <a href="https://tech.walmart.com/content/walmart-global-tech/en_us.html">Walmart Global Tech</a> (Jun 2018 - Aug 2019) </li>
 		<li> Data Scientist Intern at <a href="https://conversica.com">Conversica</a> (Feb - May 2018) </li>
 		<li> Computation Student Intern at the <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory</a> (Jun - Sep 2017) </li>
 		<li> Decision Scientist at <a href="https://www.mu-sigma.com">Mu Sigma</a>, India (Aug 2014 - Apr 2016) </li>
